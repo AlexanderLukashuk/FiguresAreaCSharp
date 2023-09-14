@@ -1,0 +1,12 @@
+/Users/aleksandrlukasuk/Projects/FiguresArea/FiguresArea/bin/Debug/net7.0/FiguresArea.deps.json
+/Users/aleksandrlukasuk/Projects/FiguresArea/FiguresArea/bin/Debug/net7.0/FiguresArea.dll
+/Users/aleksandrlukasuk/Projects/FiguresArea/FiguresArea/bin/Debug/net7.0/FiguresArea.pdb
+/Users/aleksandrlukasuk/Projects/FiguresArea/FiguresArea/obj/Debug/net7.0/FiguresArea.csproj.AssemblyReference.cache
+/Users/aleksandrlukasuk/Projects/FiguresArea/FiguresArea/obj/Debug/net7.0/FiguresArea.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrlukasuk/Projects/FiguresArea/FiguresArea/obj/Debug/net7.0/FiguresArea.AssemblyInfoInputs.cache
+/Users/aleksandrlukasuk/Projects/FiguresArea/FiguresArea/obj/Debug/net7.0/FiguresArea.AssemblyInfo.cs
+/Users/aleksandrlukasuk/Projects/FiguresArea/FiguresArea/obj/Debug/net7.0/FiguresArea.csproj.CoreCompileInputs.cache
+/Users/aleksandrlukasuk/Projects/FiguresArea/FiguresArea/obj/Debug/net7.0/FiguresArea.dll
+/Users/aleksandrlukasuk/Projects/FiguresArea/FiguresArea/obj/Debug/net7.0/refint/FiguresArea.dll
+/Users/aleksandrlukasuk/Projects/FiguresArea/FiguresArea/obj/Debug/net7.0/FiguresArea.pdb
+/Users/aleksandrlukasuk/Projects/FiguresArea/FiguresArea/obj/Debug/net7.0/ref/FiguresArea.dll
